@@ -1,0 +1,19 @@
+{
+  "name": "js_22",
+  "version": "1.0.0",
+  "description": "JavaScript ДЗ №21-22",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MazurovDmitriy/js_22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MazurovDmitriy/js_22/issues"
+  },
+  "homepage": "https://github.com/MazurovDmitriy/js_22#readme"
+}
